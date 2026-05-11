@@ -3,7 +3,4 @@ mode: testing
 mx: route3.mx.cloudflare.net
 mx: route2.mx.cloudflare.net
 mx: route1.mx.cloudflare.net
-mx: mx1.mymangomail.com
-mx: mail.protonmail.ch
-mx: mailsec.protonmail.ch
 max_age: 86400
